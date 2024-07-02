@@ -1,0 +1,5 @@
+name: Sync
+version: '${project.version}'
+main: dev.fiz.sync.Sync
+commands:
+  link:
